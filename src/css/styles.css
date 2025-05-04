@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+:root {
+  --ff-light: "HelveticaNeue Light", Helvetica, Arial, sans-serif;
+  --ff-bold: "HelveticaNeue Bold", Helvetica, Arial, sans-serif;
+  --font-clr-primary: #171717;
+
+  --section-heading-fs: 32px;
+  --seaction-paragraph-fs: 16px;
+
+  --gradient-clr-start: #0a22f4;
+  --gradient-clr-end: #fff;
+
+  --box-shadow-clr: #0a22f4;
+}
